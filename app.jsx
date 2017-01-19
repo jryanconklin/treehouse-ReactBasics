@@ -18,7 +18,7 @@ var PLAYERS = [
   }
 ];
 
-var nextId = 3;
+var nextId = 4;
 
 var Stopwatch = React.createClass({
   getInitialState: function() {
